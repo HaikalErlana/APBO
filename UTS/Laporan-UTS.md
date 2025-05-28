@@ -34,5 +34,8 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 6. Desain Antarmuka
    # WIREFRAME
    ![Wireframe APBO](https://github.com/user-attachments/assets/eaa7d124-73fa-46a8-a6eb-1ea711dfafd2)
-  
+
+   # MOCKUP
+   ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
+
 7. Laporan
