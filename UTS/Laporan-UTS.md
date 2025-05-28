@@ -62,10 +62,10 @@ Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu 
    ![Class Diagram](https://github.com/user-attachments/assets/cea3ebc6-9b32-4061-bbdf-ef5a34c7cabd)
 
 ### 6. Desain Antarmuka
-   # WIREFRAME
+   **WIREFRAME**
    ![Wireframe APBO](https://github.com/user-attachments/assets/eaa7d124-73fa-46a8-a6eb-1ea711dfafd2)
 
-   # MOCKUP
+   **MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
 
 ### 7. Laporan
