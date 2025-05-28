@@ -22,4 +22,5 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 3. Entitas Utama  
 4. Relasi  
 5. Class Diagram
-6. Laporan
+   ![Class Diagram Agent Satria](https://github.com/user-attachments/assets/d103a2f8-540d-4375-a44b-6c8bf1eb76df)
+7. Laporan
