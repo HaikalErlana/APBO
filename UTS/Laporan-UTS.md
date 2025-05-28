@@ -30,7 +30,7 @@ Pihak eksternal yang memesan produk. Tidak perlu akses sistem langsung (jika man
 
 Petugas lapangan yang mengantar minuman. Kurir bisa hanya menerima cetakan tugas dari admin atau bisa memiliki akun kurir sederhana (jika sistemnya digital).
 
-**E. Pemilik Usaha**
+**D. Pemilik Usaha**
 
 Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu laporan dan statistik, tetapi tidak ikut campur proses harian.
 
