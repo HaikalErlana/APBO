@@ -17,7 +17,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## Agent Minuman Satria
 
-1. Aktor/Role  
+# 1. Aktor/Role  
 **A. Admin**
 Orang yang menjalankan sistem sehari-hari. Bertugas mencatat semua data transaksi, mengelola stok minuman, dan memastikan proses operasional berjalan lancar.
 
