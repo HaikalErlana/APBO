@@ -21,15 +21,25 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 **A. Admin**
 
 Admin dalam bisnis ini berperan sebagai pemilik usaha yang mengelola minuman dari Produsen(Supplier) dan menjual kembali kepada customer(Konsumen)
-
+**Role**
+- Memasarkan produk dari produsen kepada konsumen.  
+- Mengambil keputusan, merencanakan bisnis, serta mengelola operasional usaha.  
+- Melakukan layanan antar barang langsung ke alamat penerima (Door to Door).
 
 **B. Supplier**
 
 Supplier berperan sebagai produsen minuman yang melakukan kerja sama kepada agen untuk menjual kembali kepada usaha-usaha kecil seperti UMKM dan lainnya.
+**Role**
+- Melakukan pengiriman produk minuman kepada Agen untuk memasarkan dan mendistribusikan produk kepada usaha sekitar
+- Menyediakan produk minuman
 
 **C. Costumer**
 
 Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen akhir dari proses penjualan produk minuman 
+**Role**
+- Konsumen atau pihak akhir yang membeli produk
+- Mitra bisnis yang membeli dan menjual kembali produk air minuman
+
 
 ### 2. Use Case Diagram
    
