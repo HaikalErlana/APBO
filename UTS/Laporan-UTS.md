@@ -18,6 +18,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ## Agent Minuman Satria
 
 1. Aktor/Role  
+**A**. Admin
+Orang yang menjalankan sistem sehari-hari. Bertugas mencatat semua data transaksi, mengelola stok minuman, dan memastikan proses operasional berjalan lancar.
+
 2. Use Case Diagram
    
    ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
