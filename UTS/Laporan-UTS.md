@@ -39,8 +39,13 @@ Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu 
    ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
   
 ### 3. Entitas Utama
-   **A. Produk**
-   ![Produk](https://github.com/user-attachments/assets/6f8b9ff4-4679-44fd-b87d-e74d302b0f80)
+   **A. Admin**
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------|-------------|
+   | id_admin  | INT(PK) | ID unik untuk admin  |
+   | nama_admin  | Varchar(100)  | Nama lengkap admin  |
+   | username  | Varchar(50)        | Username login admin  |
+   | password  | Varchar(50)        | Password login admin  |
 
    **B. Pelanggan**
    ![Pelanggan](https://github.com/user-attachments/assets/cc6450ef-89b6-4e5e-b196-53cbab0b2085)
@@ -55,7 +60,8 @@ Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu 
    ![Admin](https://github.com/user-attachments/assets/200185ff-e77a-4570-84cf-fd67935f1ff0)
 
 ### 4. Relasi
-   
+   ![Relasi Benar](https://github.com/user-attachments/assets/653aea6f-c23f-4e71-991e-af9b9545257a)
+
 
 ### 5. Class Diagram
    
