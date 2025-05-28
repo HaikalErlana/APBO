@@ -19,15 +19,19 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ### 1. Aktor/Role  
 **A. Admin**
+
 Orang yang menjalankan sistem sehari-hari. Bertugas mencatat semua data transaksi, mengelola stok minuman, dan memastikan proses operasional berjalan lancar.
 
 **B. Pelanggan**
+
 Pihak eksternal yang memesan produk. Tidak perlu akses sistem langsung (jika manual), tetapi semua datanya diinput oleh admin. Jika sistemnya online, pelanggan bisa akses lewat form/website.
 
 **C. Kurir**
+
 Petugas lapangan yang mengantar minuman. Kurir bisa hanya menerima cetakan tugas dari admin atau bisa memiliki akun kurir sederhana (jika sistemnya digital).
 
 **E. Pemilik Usaha**
+
 Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu laporan dan statistik, tetapi tidak ikut campur proses harian.
 
 ### 2. Use Case Diagram
