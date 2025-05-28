@@ -35,19 +35,19 @@ Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu 
    ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
   
 ### 3. Entitas Utama
-   # PRODUK
+   **A. Produk**
    ![Produk](https://github.com/user-attachments/assets/6f8b9ff4-4679-44fd-b87d-e74d302b0f80)
 
-   # PELANGGAN
+   **B. Pelanggan**
    ![Pelanggan](https://github.com/user-attachments/assets/cc6450ef-89b6-4e5e-b196-53cbab0b2085)
 
-   # SUPPLIER
+   **C. Supplier**
    ![Supplier](https://github.com/user-attachments/assets/e561103f-12a8-4ebb-a135-53d43ed21f30)
 
-   # TRANSAKSI
+   **D. Transaksi**
    ![Transaksi](https://github.com/user-attachments/assets/25e621de-dd03-42bf-beef-90a966775c4a)
 
-   # ADMIN
+   **E. Admin**
    ![Admin](https://github.com/user-attachments/assets/200185ff-e77a-4570-84cf-fd67935f1ff0)
 
 ### 4. Relasi
