@@ -19,9 +19,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 1. Aktor/Role  
 2. Use Case Diagram
-   ![SS 2](https://github.com/user-attachments/assets/d89b4336-6b45-4436-9ef3-86021bb5fee9)
-
-4. Entitas Utama  
-5. Relasi  
-6. Class Diagram
-7. Laporan
+3. Entitas Utama  
+4. Relasi  
+5. Class Diagram
+6. Laporan
