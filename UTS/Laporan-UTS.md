@@ -18,24 +18,27 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ## Agent Minuman Satria
 
 ### 1. Aktor/Role  
-**A. Admin**
+**A. Admin (Agent Minuman Satria)**
 
 Admin dalam bisnis ini berperan sebagai pemilik usaha yang mengelola minuman dari Produsen(Supplier) dan menjual kembali kepada customer(Konsumen)
+
 **Role**
 - Memasarkan produk dari produsen kepada konsumen.  
 - Mengambil keputusan, merencanakan bisnis, serta mengelola operasional usaha.  
 - Melakukan layanan antar barang langsung ke alamat penerima (Door to Door).
 
-**B. Supplier**
+**B. Supplier (Brand Minuman)**
 
 Supplier berperan sebagai produsen minuman yang melakukan kerja sama kepada agen untuk menjual kembali kepada usaha-usaha kecil seperti UMKM dan lainnya.
+
 **Role**
 - Melakukan pengiriman produk minuman kepada Agen untuk memasarkan dan mendistribusikan produk kepada usaha sekitar
 - Menyediakan produk minuman
 
-**C. Costumer**
+**C. Costumer (Konsumen)**
 
 Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen akhir dari proses penjualan produk minuman 
+
 **Role**
 - Konsumen atau pihak akhir yang membeli produk
 - Mitra bisnis yang membeli dan menjual kembali produk air minuman
@@ -120,4 +123,10 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    **B. MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
 
-### 7. Laporan
+### 7. Foto Dokumentai
+![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
+![WhatsApp Image 2025-05-28 at 20 49 20 (1)](https://github.com/user-attachments/assets/cff13e38-eb3b-4716-aca7-ce45a250b9dd)
+
+
+### 8. Laporan
+
