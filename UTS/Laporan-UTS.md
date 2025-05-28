@@ -17,15 +17,24 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## Agent Minuman Satria
 
-# 1. Aktor/Role  
+### 1. Aktor/Role  
 **A. Admin**
 Orang yang menjalankan sistem sehari-hari. Bertugas mencatat semua data transaksi, mengelola stok minuman, dan memastikan proses operasional berjalan lancar.
 
-2. Use Case Diagram
+**B. Pelanggan**
+Pihak eksternal yang memesan produk. Tidak perlu akses sistem langsung (jika manual), tetapi semua datanya diinput oleh admin. Jika sistemnya online, pelanggan bisa akses lewat form/website.
+
+**C. Kurir**
+Petugas lapangan yang mengantar minuman. Kurir bisa hanya menerima cetakan tugas dari admin atau bisa memiliki akun kurir sederhana (jika sistemnya digital).
+
+**E. Pemilik Usaha**
+Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu laporan dan statistik, tetapi tidak ikut campur proses harian.
+
+### 2. Use Case Diagram
    
    ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
   
-3. Entitas Utama
+### 3. Entitas Utama
    # PRODUK
    ![Produk](https://github.com/user-attachments/assets/6f8b9ff4-4679-44fd-b87d-e74d302b0f80)
 
@@ -41,19 +50,18 @@ Orang yang menjalankan sistem sehari-hari. Bertugas mencatat semua data transaks
    # ADMIN
    ![Admin](https://github.com/user-attachments/assets/200185ff-e77a-4570-84cf-fd67935f1ff0)
 
-4. Relasi
+### 4. Relasi
    
-   ![Relasi](https://github.com/user-attachments/assets/40d40d2d-5bf8-4e7d-99c5-371fd3e02524)
 
-5. Class Diagram
+### 5. Class Diagram
    
    ![Class Diagram](https://github.com/user-attachments/assets/cea3ebc6-9b32-4061-bbdf-ef5a34c7cabd)
 
-6. Desain Antarmuka
+### 6. Desain Antarmuka
    # WIREFRAME
    ![Wireframe APBO](https://github.com/user-attachments/assets/eaa7d124-73fa-46a8-a6eb-1ea711dfafd2)
 
    # MOCKUP
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
 
-7. Laporan
+### 7. Laporan
