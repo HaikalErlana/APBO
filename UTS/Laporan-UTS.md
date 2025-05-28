@@ -126,8 +126,3 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 ### 7. Foto Dokumentai
 ![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
 ![WhatsApp Image 2025-05-28 at 20 49 20 (1)](https://github.com/user-attachments/assets/cff13e38-eb3b-4716-aca7-ce45a250b9dd)
-
-
-### 8. Laporan
-[Laporan Tugas UTS-APBO (Kelompok 7).docx](https://github.com/user-attachments/files/20494690/Laporan.Tugas.UTS-APBO.Kelompok.7.docx)
-
