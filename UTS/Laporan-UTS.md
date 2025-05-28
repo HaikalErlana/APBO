@@ -23,6 +23,21 @@ Adi Wahyu Pribadi, S.Si., M.Kom
    ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
   
 3. Entitas Utama
+   # PRODUK
+   ![Produk](https://github.com/user-attachments/assets/6f8b9ff4-4679-44fd-b87d-e74d302b0f80)
+
+   # PELANGGAN
+   ![Pelanggan](https://github.com/user-attachments/assets/cc6450ef-89b6-4e5e-b196-53cbab0b2085)
+
+   # SUPPLIER
+   ![Supplier](https://github.com/user-attachments/assets/e561103f-12a8-4ebb-a135-53d43ed21f30)
+
+   # TRANSAKSI
+   ![Transaksi](https://github.com/user-attachments/assets/25e621de-dd03-42bf-beef-90a966775c4a)
+
+   # ADMIN
+   ![Admin](https://github.com/user-attachments/assets/200185ff-e77a-4570-84cf-fd67935f1ff0)
+
 4. Relasi
    
    ![Relasi](https://github.com/user-attachments/assets/40d40d2d-5bf8-4e7d-99c5-371fd3e02524)
