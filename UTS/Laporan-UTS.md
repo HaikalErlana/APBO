@@ -23,4 +23,8 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 4. Relasi  
 5. Class Diagram
    ![Class Diagram Agent Satria](https://github.com/user-attachments/assets/d103a2f8-540d-4375-a44b-6c8bf1eb76df)
-7. Laporan
+7. Desain Antarmuka
+   # WIREFRAME
+   ![Wireframe APBO](https://github.com/user-attachments/assets/eaa7d124-73fa-46a8-a6eb-1ea711dfafd2)
+  
+8. Laporan
