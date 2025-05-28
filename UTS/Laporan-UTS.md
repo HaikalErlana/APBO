@@ -129,4 +129,5 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 
 ### 8. Laporan
+[Laporan Tugas UTS-APBO (Kelompok 7).docx](https://github.com/user-attachments/files/20494690/Laporan.Tugas.UTS-APBO.Kelompok.7.docx)
 
