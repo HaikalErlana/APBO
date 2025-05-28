@@ -41,23 +41,62 @@ Pemilik Agent Satria, bertugas sebagai pengambil keputusan. Perlu akses ke menu 
 ### 3. Entitas Utama
    **A. Admin**
    | Atribut | Tipe Data            | Keterangan         |
-   |----|-------------------------|-------------|
-   | id_admin  | INT(PK) | ID unik untuk admin  |
-   | nama_admin  | Varchar(100)  | Nama lengkap admin  |
-   | username  | Varchar(50)        | Username login admin  |
-   | password  | Varchar(50)        | Password login admin  |
+   |----|-------------------------  |-------------|
+   | id_admin     | INT(PK)            | ID unik untuk admin   |
+   | nama_admin   | Varchar(100)       | Nama lengkap admin    |
+   | username     | Varchar(50)        | Username login admin  |
+   | password     | Varchar(50)        | Password login admin  |
 
    **B. Pelanggan**
-   ![Pelanggan](https://github.com/user-attachments/assets/cc6450ef-89b6-4e5e-b196-53cbab0b2085)
-
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------  |-------------|
+   | id_pelanggan    | INT(PK)            | Primary key, ID unik untuk pelanggan   |
+   | nama_pelanggan   | Varchar(100)       | Nama pemilik toko/UMKM    |
+   | jenis_pelanggan     | Varchar(50)        | UMKM / Toko  |
+   | alamat     | Varchar(200)        | Lokasi pelanggan  |
+   | no_hp     | Varchar(20)        | Nomor telepon |
+   | metode_pembayaran     | Varchar(50)        | Cash / Transfer  |
+  
    **C. Supplier**
-   ![Supplier](https://github.com/user-attachments/assets/e561103f-12a8-4ebb-a135-53d43ed21f30)
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------  |-------------|
+   | id_supplier    | INT(PK)            | Primary key, ID unik untuk supplier   |
+   | nama_supplier  | Varchar(100)       | Nama perusahaan brand minuman    |
+   | jenis_produk    | Varchar(50)        | Jenis produk yang dikirim  |
+   | alamat_supplier     | Varchar(200)        | Alamat kantor supplier  |
+   | no_kontak     | Varchar(20)        | Kontak person atau CS  |
+   
+   **D. Produk**
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------  |-------------|
+   | id_produk    | INT(PK)            | Primary key, ID unik untuk produk   |
+   | nama_produk   | Varchar(100)       | Nama minuman    |
+   | jenis_produk     | Varchar(50)        | Contoh: Air Minum, Soda, Kopi  |
+   | harga     | INT        | Harga satuan produk  |
+   | stok     | INT        | Jumlah produk yang tersedia |
+   | satuan     | Varchar(20)        | Contoh: botol, dus, pcs  |
+   | id_admin     | INT(FK)        | Admin yang mengelola produk  |
+   | id_supplier   | INT(FK)       | Supplier penyedia produk  |
+   
+   **E. Transaksi**
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------  |-------------|
+   | id_transaksi   | INT(PK)            | Primary key, ID unik transaksi   |
+   | tanggal  | Date       | Tanggal transaksi dilakukan   |
+   | id_pelanggan     | INT(FK)        | Relasi ke entitas pelanggan  |
+   | id_admin     | INT(FK)        | Admin/Kasir yang melayani transaksi |
+   | total_bayar     | INT        | Total Pembayaran |
+   | metode_pembayaran     | Varchar(50)        | Cara Pembayaran(Cash/Tf)  |
+   | status     | ENUM(‘selesai’,’pending’)       | Status transaksi apakah sudah selesai atau masih pending  |
 
-   **D. Transaksi**
-   ![Transaksi](https://github.com/user-attachments/assets/25e621de-dd03-42bf-beef-90a966775c4a)
-
-   **E. Admin**
-   ![Admin](https://github.com/user-attachments/assets/200185ff-e77a-4570-84cf-fd67935f1ff0)
+   **F. Detail Transaksi**
+   | Atribut | Tipe Data            | Keterangan         |
+   |----|-------------------------  |-------------|
+   | id_detail  | INT(PK)            | ID unik detail transaksi   |
+   | id_transaksi   | INT(FK)       | ID transaksi utama    |
+   | id_produk     | INT(FK)        | ID produk yang dibeli  |
+   | jumlah     | INT        | Jumlah item yang dibeli  |
+   | harga_satuan     | INT        | Harga satuan produk saat transaksi |
 
 ### 4. Relasi
    ![Relasi Benar](https://github.com/user-attachments/assets/653aea6f-c23f-4e71-991e-af9b9545257a)
