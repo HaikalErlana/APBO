@@ -109,8 +109,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    | harga_satuan     | INT        | Harga satuan produk saat transaksi |
 
 ### 4. Relasi
-   ![Relasi Benar](https://github.com/user-attachments/assets/653aea6f-c23f-4e71-991e-af9b9545257a)
-
+   ![Relasi ERD](https://github.com/user-attachments/assets/e762780d-51e5-428f-a673-852d36181ba2)
 
 ### 5. Class Diagram
    
