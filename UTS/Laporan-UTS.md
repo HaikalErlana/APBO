@@ -113,7 +113,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 ### 5. Class Diagram
    
-   ![oit](https://github.com/user-attachments/assets/e3e1eb89-c842-4afc-a3b5-10b74cd218cd)
+   ![ut](https://github.com/user-attachments/assets/f5e3dce9-7af9-4c15-b22c-4425c1133949)
 
 ### 6. Desain Antarmuka
    **A. WIREFRAME**
