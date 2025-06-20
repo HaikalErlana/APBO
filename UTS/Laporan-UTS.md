@@ -108,7 +108,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    | jumlah     | INT        | Jumlah item yang dibeli  |
    | harga_satuan     | INT        | Harga satuan produk saat transaksi |
 
-### 4. Relasi
+### 4. Relasi (ERD)
    ![Relasi ERD](https://github.com/user-attachments/assets/e762780d-51e5-428f-a673-852d36181ba2)
 
 ### 5. Class Diagram
