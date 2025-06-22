@@ -46,7 +46,8 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 ### 2. Use Case Diagram
    
-   ![usecase agen satria drawio (1)](https://github.com/user-attachments/assets/ebb0c4c2-3edc-40fa-b6fd-944d4ba3daf4)
+   ![Use Case Diagram (Agent Satria)](https://github.com/user-attachments/assets/ae5fedd6-819f-44fb-a2ce-a18280c80bc3)
+
   
 ### 3. Entitas Utama
    **A. Admin**
