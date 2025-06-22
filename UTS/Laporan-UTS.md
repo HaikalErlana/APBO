@@ -119,9 +119,15 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 ### 6. Sequence Diagram
 ![Editor _ Mermaid Chart-2025-06-22-125111](https://github.com/user-attachments/assets/e21f6182-a4f2-4570-89dd-dfc4bcc768e4)
 
-### 7. Desain Antarmuka
-   **A. WIREFRAME**
-   ![Wireframe APBO](https://github.com/user-attachments/assets/eaa7d124-73fa-46a8-a6eb-1ea711dfafd2)
+### 7. Desain Antarmuka 
+   **A. Register Page**
+   ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
+
+   **B. Login Page**
+   ![Login](https://github.com/user-attachments/assets/8f68c8bd-db61-42e7-9e69-5352d8bdcc84)
+
+   **C. Lupa Password Page**
+   ![Lupa Password](https://github.com/user-attachments/assets/bd52971b-7e28-4882-a3e0-61eafd73530e)
 
    **B. MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
