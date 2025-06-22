@@ -114,7 +114,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 ### 5. Class Diagram
    
-   ![ut](https://github.com/user-attachments/assets/f5e3dce9-7af9-4c15-b22c-4425c1133949)
+   ![Class Diagram (Agent Satria)](https://github.com/user-attachments/assets/475385fc-49b5-4e44-ae70-9be2fcf24f06)
 
 ### 6. Desain Antarmuka
    **A. WIREFRAME**
