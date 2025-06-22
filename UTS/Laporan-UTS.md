@@ -110,7 +110,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    | harga_satuan     | INT        | Harga satuan produk saat transaksi |
 
 ### 4. Relasi (ERD)
-   ![Relasi ERD](https://github.com/user-attachments/assets/e762780d-51e5-428f-a673-852d36181ba2)
+   ![ERD Agent Satria](https://github.com/user-attachments/assets/4a92dd58-ccd3-4459-9d35-ec13d6458088)
 
 ### 5. Class Diagram
    
