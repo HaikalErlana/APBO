@@ -119,7 +119,10 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 ### 6. Sequence Diagram
 ![Editor _ Mermaid Chart-2025-06-22-125111](https://github.com/user-attachments/assets/e21f6182-a4f2-4570-89dd-dfc4bcc768e4)
 
-### 7. Desain Antarmuka 
+### 7. Flowchart
+![Flowchart Agen Satria](https://github.com/user-attachments/assets/ea3006d6-1063-48a0-8612-d2c0f6098f17)
+
+### 8. Desain Antarmuka 
    **A. Register Page**
    ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
 
@@ -132,7 +135,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    **B. MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
 
-### 8. Foto Dokumentai
+### 9. Foto Dokumentai
 ![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
 ![WhatsApp Image 2025-05-28 at 20 49 20 (1)](https://github.com/user-attachments/assets/efadfc75-800c-418e-bc0c-b61fd8d1bfca)
 
