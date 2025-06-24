@@ -17,7 +17,11 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## Agent Minuman Satria
 
-### 1. Aktor/Role  
+
+### 1. Flowchart
+![Flowchart Agen Satria](https://github.com/user-attachments/assets/ea3006d6-1063-48a0-8612-d2c0f6098f17)
+
+### 2. Aktor/Role  
 **A. Admin (Agent Minuman Satria)**
 
 Admin dalam bisnis ini berperan sebagai pemilik usaha yang mengelola minuman dari Produsen(Supplier) dan menjual kembali kepada customer(Konsumen)
@@ -119,8 +123,6 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 ### 6. Sequence Diagram
 ![Editor _ Mermaid Chart-2025-06-22-125111](https://github.com/user-attachments/assets/e21f6182-a4f2-4570-89dd-dfc4bcc768e4)
 
-### 7. Flowchart
-![Flowchart Agen Satria](https://github.com/user-attachments/assets/ea3006d6-1063-48a0-8612-d2c0f6098f17)
 
 ### 8. Desain Antarmuka 
    **A. Register Page**
