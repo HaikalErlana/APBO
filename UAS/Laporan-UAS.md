@@ -48,12 +48,12 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 - Mitra bisnis yang membeli dan menjual kembali produk air minuman
 
 
-### 2. Use Case Diagram
+### 3. Use Case Diagram
    
    ![Use Case Diagram (Agent Satria)](https://github.com/user-attachments/assets/ae5fedd6-819f-44fb-a2ce-a18280c80bc3)
 
   
-### 3. Entitas Utama
+### 4. Entitas Utama
    **A. Admin**
    | Atribut | Tipe Data            | Keterangan         |
    |----|-------------------------  |-------------|
@@ -113,18 +113,22 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    | jumlah     | INT        | Jumlah item yang dibeli  |
    | harga_satuan     | INT        | Harga satuan produk saat transaksi |
 
-### 4. Relasi (ERD)
+### 5. Relasi (ERD)
    ![ERD Agent Satria](https://github.com/user-attachments/assets/4a92dd58-ccd3-4459-9d35-ec13d6458088)
 
-### 5. Class Diagram
+### 6. Class Diagram
    
    ![Class Diagram (Agent Satria)](https://github.com/user-attachments/assets/475385fc-49b5-4e44-ae70-9be2fcf24f06)
 
-### 6. Sequence Diagram
+### 7. Sequence Diagram
 ![Editor _ Mermaid Chart-2025-06-22-125111](https://github.com/user-attachments/assets/e21f6182-a4f2-4570-89dd-dfc4bcc768e4)
 
+### 8. Activity Diagram
+![activity](https://github.com/user-attachments/assets/3365e3a6-a507-4c75-a07a-7ed050094cfd)
 
-### 8. Desain Antarmuka 
+
+
+### 9. Desain Antarmuka 
    **A. Register Page**
    ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
 
@@ -137,7 +141,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    **B. MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
 
-### 9. Foto Dokumentai
+### 10. Foto Dokumentai
 ![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
 ![WhatsApp Image 2025-05-28 at 20 49 20 (1)](https://github.com/user-attachments/assets/efadfc75-800c-418e-bc0c-b61fd8d1bfca)
 
