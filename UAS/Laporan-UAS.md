@@ -145,3 +145,5 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 ![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
 ![WhatsApp Image 2025-05-28 at 20 49 20 (1)](https://github.com/user-attachments/assets/efadfc75-800c-418e-bc0c-b61fd8d1bfca)
 
+### 11. Foto Lean
+![unnamed](https://github.com/user-attachments/assets/37b260a4-ba45-4fbe-8c0c-44d9abe0dd1a)
