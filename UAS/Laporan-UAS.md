@@ -129,6 +129,11 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 
 ### 9. Desain Antarmuka 
+   **A. User Dashboard**
+   
+
+
+
    **A. Register Page**
    ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
 
