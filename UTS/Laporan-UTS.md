@@ -117,14 +117,8 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    ![Class Diagram (Agent Satria)](https://github.com/user-attachments/assets/475385fc-49b5-4e44-ae70-9be2fcf24f06)
 
 ### 6. Desain Antarmuka 
-   **A. Register Page**
-   ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
-
-   **B. Login Page**
-   ![Login](https://github.com/user-attachments/assets/8f68c8bd-db61-42e7-9e69-5352d8bdcc84)
-
-   **C. Lupa Password Page**
-   ![Lupa Password](https://github.com/user-attachments/assets/bd52971b-7e28-4882-a3e0-61eafd73530e)
+   **A. WIREFRAME**
+   ![Beranda-Daftar](https://github.com/user-attachments/assets/d2807694-a37d-47b8-ac66-22a6f17f2366)
 
    **B. MOCKUP**
    ![Mockup APBO](https://github.com/user-attachments/assets/de8ee58b-81ed-4c4b-90b6-6cff87e0e1bc)
