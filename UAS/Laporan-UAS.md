@@ -129,7 +129,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 ### 9. Desain Antarmuka 
    **A. WIREFRAME**
-   **1. USER DASHBOARD**
+      **1. USER DASHBOARD**
    
    Register Page
    ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
@@ -150,7 +150,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    ![Tentang Kami](https://github.com/user-attachments/assets/7ca73965-7a95-4953-80d2-745278470913)
    
    
-   **2. ADMIN DASHBOARD**
+      **2. ADMIN DASHBOARD**
    
    Dashboard
    ![image](https://github.com/user-attachments/assets/8eb18201-83db-46f7-a0cd-f175e795ca2a)
@@ -178,7 +178,56 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    
    Laporan
    ![image](https://github.com/user-attachments/assets/9a41602f-643a-45c9-8f99-00b40571e1a5)
+
+   **B. MOCKUP**
+   **1. USER DASHBOARD**
+   Register Page
    
+   
+   Login Page
+   
+   
+   Lupa Password Page
+   
+
+   Beranda
+   
+   
+   Produk
+   
+   
+   Tentang Kami
+   
+   
+   
+   **2. ADMIN DASHBOARD**
+   
+   Dashboard
+   
+   
+   Register Page
+   
+   
+   Login Page
+   
+   
+   Wrongpass Page
+   
+   
+   Dashboard utama
+   
+   
+   Produk
+   
+   
+   Pesanan
+   
+   
+   Pelanggan
+   
+   
+   Laporan
+  
 
 ### 10. Foto Dokumentai
 ![WhatsApp Image 2025-05-28 at 20 49 20](https://github.com/user-attachments/assets/f1659df2-b30a-4137-a8f1-3fdb2f74a93c)
