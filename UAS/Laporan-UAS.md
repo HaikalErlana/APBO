@@ -141,7 +141,7 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
    #### Lupa Password Page ####
    ![Lupa Password](https://github.com/user-attachments/assets/bd52971b-7e28-4882-a3e0-61eafd73530e)
 
-   Beranda
+   #### Beranda #### 
    ![Beranda-Daftar](https://github.com/user-attachments/assets/9e9954d3-2f89-4256-9d3d-ab9be3a1572c)
    
    #### Produk ####
