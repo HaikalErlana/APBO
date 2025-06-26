@@ -129,104 +129,98 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
 ### 9. Desain Antarmuka 
    **A. WIREFRAME**
-      **1. USER DASHBOARD**
    
-   Register Page
+   **1. USER DASHBOARD**
+   
+   #### Register Page ####
    ![Register](https://github.com/user-attachments/assets/7a5661ea-5371-4fa9-9345-7e9ac943deea)
    
-   Login Page
+   #### Login Page ####
    ![Login](https://github.com/user-attachments/assets/8f68c8bd-db61-42e7-9e69-5352d8bdcc84)
    
-   Lupa Password Page
+   #### Lupa Password Page ####
    ![Lupa Password](https://github.com/user-attachments/assets/bd52971b-7e28-4882-a3e0-61eafd73530e)
 
    Beranda
    ![Beranda-Daftar](https://github.com/user-attachments/assets/9e9954d3-2f89-4256-9d3d-ab9be3a1572c)
    
-   Produk
+   #### Produk ####
    ![Produk](https://github.com/user-attachments/assets/bbf14776-7a1f-4854-89d7-9ee47d290898)
    
-   Tentang Kami
+   #### Tentang Kami ####
    ![Tentang Kami](https://github.com/user-attachments/assets/7ca73965-7a95-4953-80d2-745278470913)
-   
-   
-      **2. ADMIN DASHBOARD**
-   
-   Dashboard
-   ![image](https://github.com/user-attachments/assets/8eb18201-83db-46f7-a0cd-f175e795ca2a)
-   
-   Register Page
-   ![Register-admin](https://github.com/user-attachments/assets/53f03f8c-64b2-4a6c-b05e-42ac91226a0b)
-   
-   Login Page
-   ![Login-admin](https://github.com/user-attachments/assets/ea1b727a-a86c-414c-a15e-50066ec590a5)
-   
-   Wrongpass Page
-   ![WrongPass-admin](https://github.com/user-attachments/assets/2d5755ba-b893-47b7-96ae-56b51c953d8d)
-   
-   Dashboard utama
-   ![image](https://github.com/user-attachments/assets/f8b3aa2b-168a-4dd8-8e61-64295275cc44)
-   
-   Produk
-   ![image](https://github.com/user-attachments/assets/e0864204-6007-4eb7-92a3-9bf5477f528d)
-   
-   Pesanan
-   ![image](https://github.com/user-attachments/assets/1c382441-3a18-481b-b31a-8b8394f6d1ed)
-   
-   Pelanggan
-   ![image](https://github.com/user-attachments/assets/71bd9f9c-9ff9-4371-9a73-0c6ebf9ca78f)
-   
-   Laporan
-   ![image](https://github.com/user-attachments/assets/9a41602f-643a-45c9-8f99-00b40571e1a5)
-
-   **B. MOCKUP**
-   **1. USER DASHBOARD**
-   Register Page
-   
-   
-   Login Page
-   
-   
-   Lupa Password Page
-   
-
-   Beranda
-   
-   
-   Produk
-   
-   
-   Tentang Kami
-   
    
    
    **2. ADMIN DASHBOARD**
    
-   Dashboard
+   #### Dashboard ####
+   ![image](https://github.com/user-attachments/assets/8eb18201-83db-46f7-a0cd-f175e795ca2a)
+   
+   #### Register Page ####
+   ![Register-admin](https://github.com/user-attachments/assets/53f03f8c-64b2-4a6c-b05e-42ac91226a0b)
+   
+   #### Login Page ####
+   ![Login-admin](https://github.com/user-attachments/assets/ea1b727a-a86c-414c-a15e-50066ec590a5)
+   
+   #### Wrongpass Page ####
+   ![WrongPass-admin](https://github.com/user-attachments/assets/2d5755ba-b893-47b7-96ae-56b51c953d8d)
+   
+   #### Dashboard utama ####
+   ![image](https://github.com/user-attachments/assets/f8b3aa2b-168a-4dd8-8e61-64295275cc44)
+   
+   #### Produk ####
+   ![image](https://github.com/user-attachments/assets/e0864204-6007-4eb7-92a3-9bf5477f528d)
+   
+   #### Pesanan ####
+   ![image](https://github.com/user-attachments/assets/1c382441-3a18-481b-b31a-8b8394f6d1ed)
+   
+   #### Pelanggan ####
+   ![image](https://github.com/user-attachments/assets/71bd9f9c-9ff9-4371-9a73-0c6ebf9ca78f)
+   
+   #### Laporan ####
+   ![image](https://github.com/user-attachments/assets/9a41602f-643a-45c9-8f99-00b40571e1a5)
+
+   **B. MOCKUP**
+   **1. USER DASHBOARD**
+   #### Register Page ####
+   
+   #### Login Page ####
+   
+   #### Lupa Password Page ####
+   
+   #### Beranda ####
+   
+   #### Produk ####
+   
+   #### Tentang Kami ####
+   
+   **2. ADMIN DASHBOARD**
+   
+   #### Dashboard ####
    
    
-   Register Page
+   #### Register Page ####
    
    
-   Login Page
+   #### Login Page ####
    
    
-   Wrongpass Page
+   #### Wrongpass Page ####
    
    
-   Dashboard utama
+   #### Dashboard utama ####
    
    
-   Produk
+   #### Produk ####
    
    
-   Pesanan
+   #### Pesanan ####
    
    
-   Pelanggan
+   #### Pelanggan ####
+    
    
-   
-   Laporan
+   #### Laporan ####
   
 
 ### 10. Foto Dokumentasi
