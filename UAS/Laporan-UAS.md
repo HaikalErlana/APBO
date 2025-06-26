@@ -182,45 +182,51 @@ Customer seperti toko-toko kecil, UMKM, dan sejenisnya berperan sebagai konsumen
 
    **B. MOCKUP**
    **1. USER DASHBOARD**
-   #### Register Page ####
+   ### Register Page ###
+   ![Reg](https://github.com/user-attachments/assets/dc188c59-e3ef-4752-a318-728682ffde9e)
+
+   ### Login Page ###
+   ![Login](https://github.com/user-attachments/assets/fec3f53d-bedb-4112-b009-205b2ef2aea2)
    
-   #### Login Page ####
+   ### Lupa Password Page
+   ![Wring](https://github.com/user-attachments/assets/3779c6f5-f297-49a2-9a58-0bb38569fb98)
+
+   ### Beranda
+   ![MockUp - 1](https://github.com/user-attachments/assets/b47fa447-b55d-47c7-9ad8-0b844d7b6df2)
    
-   #### Lupa Password Page ####
+   ### Produk
+   ![MockUp - 1 (1)](https://github.com/user-attachments/assets/bf229fb9-eedf-405b-9648-d4cc7bf8200a)
+
+   ### Tentang Kami
+   ![MockUp - 1 (2)](https://github.com/user-attachments/assets/e2c6efd8-588a-4f06-83a0-c82bf99c35ec)
    
-   #### Beranda ####
-   
-   #### Produk ####
-   
-   #### Tentang Kami ####
-   
-   **2. ADMIN DASHBOARD**
-   
-   #### Dashboard ####
-   
-   
-   #### Register Page ####
-   
-   
-   #### Login Page ####
-   
-   
-   #### Wrongpass Page ####
-   
-   
-   #### Dashboard utama ####
-   
-   
-   #### Produk ####
-   
-   
-   #### Pesanan ####
-   
-   
-   #### Pelanggan ####
-    
-   
-   #### Laporan ####
+   ### 2. ADMIN DASHBOARD
+   ### Dashboard
+   ![Dashboard1](https://github.com/user-attachments/assets/c3c26112-cb5e-471a-97ee-9ad5dee950ac)
+
+   ### Register Page
+   ![Regis](https://github.com/user-attachments/assets/97c29f2a-4772-4f56-ae7e-1ece8aab2782)
+
+   ### Login Page
+   ![Login](https://github.com/user-attachments/assets/8ce707f4-ec37-4348-a29a-c012851d86f7)
+
+   ### Wrongpass Page
+   ![Wring](https://github.com/user-attachments/assets/e764f725-634d-4baa-9447-d2c0ccd00a07)
+
+   ### Dashboard utama
+   ![Dashboard](https://github.com/user-attachments/assets/b7ca47e4-2715-4b24-8051-6a4baae1a7ea)
+
+   ### Produk
+   ![Produk](https://github.com/user-attachments/assets/fb494236-b414-4e56-9939-63f4c0414db0)
+
+   ### Pesanan
+   ![Pesanan](https://github.com/user-attachments/assets/b281b225-b566-4f13-8da9-783ccb85f577)
+
+   ### Pelanggan
+   ![Pelanggan](https://github.com/user-attachments/assets/7db70fc7-decc-4a2d-b4ad-eec2d928a87c)
+
+   ### Laporan
+   ![Laporan](https://github.com/user-attachments/assets/f7e76b70-28aa-4e63-89e6-af8bc7fb286a)
   
 
 ### 10. Foto Dokumentasi
